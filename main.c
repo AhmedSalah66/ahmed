@@ -1,7 +1,9 @@
 #include <stdio.h>
 int main()
 {
-    printf("nasr_53");
-    return0 
-    
+   int x ;
+   int y ;
+
+    return 0 ;
+
 }
